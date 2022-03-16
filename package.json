@@ -1,0 +1,23 @@
+{
+  "name": "check_rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viettd56/check_rpc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viettd56/check_rpc/issues"
+  },
+  "homepage": "https://github.com/viettd56/check_rpc#readme",
+  "dependencies": {
+    "ethers": "^5.6.0"
+  }
+}
